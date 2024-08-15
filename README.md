@@ -1,7 +1,9 @@
-# Family Doctor Organizer
+## About ##
 
-**This Python script, powered by BeautifulSoup and pandas, converts HTML data obtained from a website into an Excel sheet. Extracting essential information, it organizes a structured table for easy data interpretation.**
+I wanted to find a family medicine doctor in certain areas of my city, and the only resource I found was a website with an unsortable table. For this reason along with the learning opportunity it provided, I decided to build this web scraper which organizes the table data into a neat format in an excel file.
 
-## License
+## Technologies ##
 
-This project is licensed under the [MIT License](LICENSE).
+- Python
+- Pandas
+- BeautifulSoup
